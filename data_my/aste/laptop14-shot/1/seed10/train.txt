@@ -1,0 +1,3 @@
+aste	laptop14	i charge it at night and skip taking the cord with me because of the good battery life .####[([16, 17], [15], 'pos')]
+aste	laptop14	my opinion of sony has been dropping as fast as the stock market , given their horrible support , but this machine just caused another plunge .####[([17], [16], 'neg')]
+aste	laptop14	i am addicted to photo booth !####[([4, 5], [2], 'pos')]

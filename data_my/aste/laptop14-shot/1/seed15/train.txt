@@ -1,0 +1,3 @@
+aste	laptop14	the letter a stopped working after the first week .####[([1, 2], [3], 'neg')]
+aste	laptop14	it was hard to handle and operate at school .####[([4], [2], 'neg'), ([6], [2], 'neg')]
+aste	laptop14	love the graphics , awesome programs ( including garageband ) , and really cool default background .####[([2], [0], 'pos'), ([5], [4], 'pos'), ([8], [4], 'pos'), ([14, 15], [13], 'pos')]

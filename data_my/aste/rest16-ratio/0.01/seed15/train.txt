@@ -1,0 +1,8 @@
+aste	rest16	if you want good authentic thai this place is not the place to go .####[([5], [3, 4], 'neg')]
+aste	rest16	the food is great and they have a good selection of wines at reasonable prices .####[([1], [3], 'pos')]
+aste	rest16	not enough wines by the glass either .####[([2, 3, 4, 5], [0, 1], 'neg')]
+aste	rest16	mazing interior .####[([1], [0], 'neg')]
+aste	rest16	once you step into cosette , you 're miraculously in a small , off-the-beaten path parisian bistro .####[([4], [13], 'pos')]
+aste	rest16	the only fallback on this restaurant is the prices .####[([5], [2], 'neg')]
+aste	rest16	vanison was good but not amazing .####[([0], [2], 'neu'), ([0], [4, 5], 'neu')]
+aste	rest16	the waitstaffs are nice though .####[([1], [3], 'pos')]

@@ -1,0 +1,10 @@
+test_f1_score = 0.5891829689298045
+test_loss = 15.208
+test_n_common = 256
+test_n_labels = 514
+test_n_preds = 355
+test_precision = 0.7211267605633803
+test_recall = 0.4980544747081712
+test_runtime = 84.9797
+test_samples_per_second = 19.181
+test_steps_per_second = 0.6

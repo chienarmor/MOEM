@@ -1,0 +1,99 @@
+Here are examples (from the train set):
+Sample 1 - Index: 0
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[A]', '[S]']
+all_targets: [O] can not be beaten [A] sushi [S] ok
+
+
+Sample 2 - Index: 1
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[S]', '[A]']
+all_targets: [O] can not be beaten [S] ok [A] sushi
+
+
+Sample 3 - Index: 2
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[O]', '[S]']
+all_targets: [A] sushi [O] can not be beaten [S] ok
+
+
+Sample 4 - Index: 3
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[S]', '[O]']
+all_targets: [A] sushi [S] ok [O] can not be beaten
+
+
+Sample 5 - Index: 4
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[S]', '[O]', '[A]']
+all_targets: [S] ok [O] can not be beaten [A] sushi
+
+
+Sample 6 - Index: 5
+all_inputs: ['aste', ':', 'rest16', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[A]', '[S]']
+all_targets: [O] beaten [A] all you can eat sushi [S] great
+
+
+Sample 7 - Index: 6
+all_inputs: ['aste', ':', 'rest16', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[O]', '[S]']
+all_targets: [A] all you can eat sushi [O] beaten [S] great
+
+
+Sample 8 - Index: 7
+all_inputs: ['aste', ':', 'rest16', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[S]', '[A]']
+all_targets: [O] beaten [S] great [A] all you can eat sushi
+
+
+Sample 9 - Index: 8
+all_inputs: ['aste', ':', 'rest16', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[S]', '[O]']
+all_targets: [A] all you can eat sushi [S] great [O] beaten
+
+
+Sample 10 - Index: 9
+all_inputs: ['aste', ':', 'rest16', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[S]', '[O]', '[A]']
+all_targets: [S] great [O] beaten [A] all you can eat sushi
+
+
+Sample 11 - Index: 10
+all_inputs: ['asqp', ':', 'rest15', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[O]', '[S]', '[C]']
+all_targets: [A] all you can eat sushi [O] beaten [S] great [C] food prices
+
+
+Sample 12 - Index: 11
+all_inputs: ['asqp', ':', 'rest15', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[A]', '[C]', '[S]']
+all_targets: [O] beaten [A] all you can eat sushi [C] food prices [S] great
+
+
+Sample 13 - Index: 12
+all_inputs: ['asqp', ':', 'rest15', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[A]', '[O]', '[C]', '[S]']
+all_targets: [A] all you can eat sushi [O] beaten [C] food prices [S] great
+
+
+Sample 14 - Index: 13
+all_inputs: ['asqp', ':', 'rest15', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[A]', '[S]', '[C]']
+all_targets: [O] beaten [A] all you can eat sushi [S] great [C] food prices
+
+
+Sample 15 - Index: 14
+all_inputs: ['asqp', ':', 'rest15', ':', '$', '20', 'for', 'all', 'you', 'can', 'eat', 'sushi', 'can', 'not', 'be', 'beaten', '.', '[O]', '[S]', '[C]', '[A]']
+all_targets: [O] beaten [S] great [C] food prices [A] all you can eat sushi
+
+
+Sample 16 - Index: 15
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'gets', 'you', 'unlimited', 'sushi', 'of', 'a', 'very', 'high', 'quality', '--', 'i', 'even', 'took', 'a', 'friend', 'here', 'from', 'japan', 'who', 'said', 'it', 'was', 'one', 'of', 'the', 'best', 'sushi', 'places', 'in', 'the', 'us', 'that', 'he', 'has', 'been', 'to', '.', '[O]', '[A]', '[S]']
+all_targets: [O] unlimited [A] sushi [S] great [SSEP] [O] high [A] quality [S] great [SSEP] [O] best [A] sushi places [S] great
+
+
+Sample 17 - Index: 16
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'gets', 'you', 'unlimited', 'sushi', 'of', 'a', 'very', 'high', 'quality', '--', 'i', 'even', 'took', 'a', 'friend', 'here', 'from', 'japan', 'who', 'said', 'it', 'was', 'one', 'of', 'the', 'best', 'sushi', 'places', 'in', 'the', 'us', 'that', 'he', 'has', 'been', 'to', '.', '[O]', '[S]', '[A]']
+all_targets: [O] unlimited [S] great [A] sushi [SSEP] [O] high [S] great [A] quality [SSEP] [O] best [S] great [A] sushi places
+
+
+Sample 18 - Index: 17
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'gets', 'you', 'unlimited', 'sushi', 'of', 'a', 'very', 'high', 'quality', '--', 'i', 'even', 'took', 'a', 'friend', 'here', 'from', 'japan', 'who', 'said', 'it', 'was', 'one', 'of', 'the', 'best', 'sushi', 'places', 'in', 'the', 'us', 'that', 'he', 'has', 'been', 'to', '.', '[A]', '[O]', '[S]']
+all_targets: [A] sushi [O] unlimited [S] great [SSEP] [A] quality [O] high [S] great [SSEP] [A] sushi places [O] best [S] great
+
+
+Sample 19 - Index: 18
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'gets', 'you', 'unlimited', 'sushi', 'of', 'a', 'very', 'high', 'quality', '--', 'i', 'even', 'took', 'a', 'friend', 'here', 'from', 'japan', 'who', 'said', 'it', 'was', 'one', 'of', 'the', 'best', 'sushi', 'places', 'in', 'the', 'us', 'that', 'he', 'has', 'been', 'to', '.', '[A]', '[S]', '[O]']
+all_targets: [A] sushi [S] great [O] unlimited [SSEP] [A] quality [S] great [O] high [SSEP] [A] sushi places [S] great [O] best
+
+
+Sample 20 - Index: 19
+all_inputs: ['aste', ':', 'rest14', ':', '$', '20', 'gets', 'you', 'unlimited', 'sushi', 'of', 'a', 'very', 'high', 'quality', '--', 'i', 'even', 'took', 'a', 'friend', 'here', 'from', 'japan', 'who', 'said', 'it', 'was', 'one', 'of', 'the', 'best', 'sushi', 'places', 'in', 'the', 'us', 'that', 'he', 'has', 'been', 'to', '.', '[S]', '[O]', '[A]']
+all_targets: [S] great [O] unlimited [A] sushi [SSEP] [S] great [O] high [A] quality [SSEP] [S] great [O] best [A] sushi places

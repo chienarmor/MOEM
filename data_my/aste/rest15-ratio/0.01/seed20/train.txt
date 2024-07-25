@@ -1,0 +1,6 @@
+aste	rest15	pizza is terrific , as is homemade pasta .####[([0], [2], 'pos'), ([6, 7], [2], 'pos')]
+aste	rest15	the pasta penne was pretty extra buttery , creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count , penne ... got a little moody afterwards cause was stuffed ... lol####[([1, 2], [6], 'neg')]
+aste	rest15	i love this place !####[([3], [1], 'pos')]
+aste	rest15	great vibe , lots of people .####[([1], [0], 'pos')]
+aste	rest15	raga 's is a romantic , cozy restaurant .####[([0, 1], [4], 'pos'), ([0, 1], [6], 'pos')]
+aste	rest15	a few tips : skip the turnip cake , roast pork buns and egg custards .####[([6, 7], [4], 'neg'), ([9, 10, 11], [4], 'neg'), ([13, 14], [4], 'neg')]

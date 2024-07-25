@@ -1,0 +1,6 @@
+aste	rest15	good food .####[([1], [0], 'pos')]
+aste	rest15	fabulous decor - makes you feel like you 're in a trendy manhattan restaurant , very very good food , cheaply-priced , generally friendly staff , and if you 're a manhattanite , or spend most of your time in manhattan , rice avenue will make you feel at home ... ..very soho/village/upper west side minus the expensive prices and pretentious clientele ... ..all on roosevelt avenue !####[([1], [0], 'pos'), ([18], [17], 'pos'), ([18], [20], 'pos'), ([24], [23], 'pos')]
+aste	rest15	the only problem is that the manager is a complete incompetent .####[([6], [10], 'neg')]
+aste	rest15	for authentic thai food , look no further than toons .####[([2, 3], [1], 'pos')]
+aste	rest15	good , fast service .####[([3], [0], 'pos'), ([3], [2], 'pos')]
+aste	rest15	i absolutely loved this place .####[([4], [2], 'pos')]

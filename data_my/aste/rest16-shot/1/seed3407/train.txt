@@ -1,0 +1,3 @@
+aste	rest16	we waited at the bar and had martinis that were just right .####[([7], [11], 'pos')]
+aste	rest16	big wong is a great place to eat and fill your stomach .####[([0, 1], [4], 'pos')]
+aste	rest16	i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service .####[([12], [9, 10, 11], 'pos'), ([15], [14], 'pos')]

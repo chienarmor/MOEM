@@ -1,0 +1,3 @@
+aste	rest15	the people that work there are always so friendly you forget you are in new york sometimes .####[([1], [8], 'pos')]
+aste	rest15	we took advanatage of the half price sushi deal on saturday so it was well worth it .####[([5, 6, 7, 8], [15], 'pos')]
+aste	rest15	best pastrami i ever had and great portion without being ridiculous .####[([1], [0], 'pos'), ([7], [6], 'pos')]

@@ -1,0 +1,3 @@
+aste	rest16	service was wonderful ;####[([0], [2], 'pos')]
+aste	rest16	best taiwanese food in ny !####[([1, 2], [0], 'pos')]
+aste	rest16	oh speaking of bathroom , the mens bathroom was disgusting .####[([6, 7], [9], 'neg')]

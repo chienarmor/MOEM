@@ -1,0 +1,3 @@
+aste	laptop14	yeah , of course smarty pants `` fix it now '' ) software - compared to the early 2011 edition i did see inbuilt applications crashing and it prompted me to send the report to apple ( which i promptly did ) .####[([23, 24], [25], 'neg'), ([12], [4], 'neg')]
+aste	laptop14	typically , when i purchase a new laptop i always end up using an external mouse for convenience .####[([14, 15], [17], 'neu')]
+aste	laptop14	i had the staff telling me older version did not make the fan noise cause it is a `` different '' computer .####[([12, 13], [8, 9, 10], 'neg')]

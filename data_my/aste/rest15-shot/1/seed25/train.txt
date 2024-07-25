@@ -1,0 +1,3 @@
+aste	rest15	the food was delicious but do not come here on a empty stomach .####[([1], [3], 'neg')]
+aste	rest15	the view is spectacular , and the food is great .####[([1], [3], 'pos'), ([7], [9], 'pos')]
+aste	rest15	pizza is terrific , as is homemade pasta .####[([0], [2], 'pos'), ([6, 7], [2], 'pos')]

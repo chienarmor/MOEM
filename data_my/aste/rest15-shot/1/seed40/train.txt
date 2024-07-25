@@ -1,0 +1,3 @@
+aste	rest15	i have never before eaten 40 pieces of relatively good nigiri .####[([10], [9], 'neu')]
+aste	rest15	the pizza is delicious and the proprietor is one of the nicest in nyc .####[([1], [3], 'pos'), ([6], [11], 'pos')]
+aste	rest15	the wine list is extensive and can easily hike up an otherwise reasonably priced meal .####[([1, 2], [4], 'pos'), ([14], [12, 13], 'pos')]

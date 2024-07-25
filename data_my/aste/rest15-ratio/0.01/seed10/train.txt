@@ -1,0 +1,6 @@
+aste	rest15	i highly recommend cafe st. bart 's for their food , the ambience and wonderful service .####[([9], [2], 'pos'), ([12], [2], 'pos'), ([15], [2], 'pos'), ([15], [14], 'pos')]
+aste	rest15	this is a great place to take out-of-towners , and perfect for watching the sunset .####[([4], [3], 'pos')]
+aste	rest15	and the tom kha soup was pathetic .####[([2, 3, 4], [6], 'neg')]
+aste	rest15	the pizza and wine were excellent -- the service too -- but what really made this place was the backyard dining area .####[([1], [5], 'pos'), ([3], [5], 'pos'), ([8], [5], 'pos')]
+aste	rest15	the atmosphere is nothing special , but it feels like a sushi establishment in tokyo .####[([1], [3, 4], 'pos')]
+aste	rest15	drinks way over priced .####[([0], [2, 3], 'neg')]

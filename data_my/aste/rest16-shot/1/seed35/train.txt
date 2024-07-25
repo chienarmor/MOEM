@@ -1,0 +1,3 @@
+aste	rest16	have never had a problem with service save a missing rice once .####[([6], [4], 'pos')]
+aste	rest16	my favorite place lol####[([2], [1], 'pos')]
+aste	rest16	the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####[([22], [19], 'pos'), ([22], [21], 'pos'), ([1], [5], 'neu')]

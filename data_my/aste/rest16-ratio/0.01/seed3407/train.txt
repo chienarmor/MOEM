@@ -1,0 +1,8 @@
+aste	rest16	we waited at the bar and had martinis that were just right .####[([7], [11], 'pos')]
+aste	rest16	big wong is a great place to eat and fill your stomach .####[([0, 1], [4], 'pos')]
+aste	rest16	i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service .####[([12], [9, 10, 11], 'pos'), ([15], [14], 'pos')]
+aste	rest16	i was very disappointed with this restaurant .####[([6], [3], 'neg')]
+aste	rest16	great place , great value .####[([1], [0], 'pos')]
+aste	rest16	an unpretentious spot in park slope , the sushi is consistently good , the service is pleasant , effective and unassuming .####[([2], [1], 'pos'), ([8], [11], 'pos'), ([14], [16], 'pos'), ([14], [18], 'pos'), ([14], [20], 'pos')]
+aste	rest16	shame on this place for the horrible rude staff and non-existent customer service .####[([8], [7], 'neg'), ([11, 12], [10], 'neg')]
+aste	rest16	the in-house lady dj on saturday nights has outrageously good taste in music , and moreover , takes requests .####[([1, 2, 3], [9, 10], 'pos')]

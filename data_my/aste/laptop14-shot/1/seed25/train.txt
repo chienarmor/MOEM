@@ -1,0 +1,3 @@
+aste	laptop14	it 's still beautiful and has better color reproduction than i could ever expect from a notebook .####[([7, 8], [6], 'pos')]
+aste	laptop14	but we had paid for bluetooth , and there was none .####[([5], [10], 'neg')]
+aste	laptop14	unable to boot up this brand new laptop .####[([2, 3], [0], 'neg')]

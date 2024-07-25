@@ -1,0 +1,7333 @@
+{
+  "rest16": [
+    {
+      "labels": [
+        [
+          "service",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "quality",
+          "mediocre",
+          "neutral"
+        ],
+        [
+          "service",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu items",
+          "hit",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu items",
+          "hit",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "hummus",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "hummus",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "margaritas",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "margaritas",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "caeser salad",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "caeser salad",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "quick",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "seating",
+          "good",
+          "positive"
+        ],
+        [
+          "service",
+          "quick",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "box sushi",
+          "perfect",
+          "positive"
+        ],
+        [
+          "spanish mackeral special appetizer",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "box sushi",
+          "perfect",
+          "positive"
+        ],
+        [
+          "spanish mackeral special appetizer",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "spendid",
+          "positive"
+        ],
+        [
+          "service",
+          "delight",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "spendid",
+          "positive"
+        ],
+        [
+          "service",
+          "delight",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "upstairs",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "upstairs",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sake",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waiter",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "feel",
+          "open",
+          "positive"
+        ],
+        [
+          "feel",
+          "plus",
+          "positive"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "omikase",
+          "didn't disappoint",
+          "negative"
+        ],
+        [
+          "omikase",
+          "scored low on creativity and selection",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "selection",
+          "low",
+          "negative"
+        ],
+        [
+          "omikase",
+          "didn't disappoint",
+          "positive"
+        ],
+        [
+          "creativity",
+          "low",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "good",
+          "negative"
+        ],
+        [
+          "food",
+          "overpriced",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "good",
+          "negative"
+        ],
+        [
+          "food",
+          "overpriced",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "avoid",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "avoid",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "oyster roll",
+          "try",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "oyster roll",
+          "try",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "chinese food",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "chinese food",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "crab cakes",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "crab cakes",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "best",
+          "positive"
+        ],
+        [
+          "service",
+          "phenominal",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "honey walnyt prawns",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "honey walnyt prawns",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "indian food",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "indian food",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "standby",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "standby",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "decor",
+          "great",
+          "positive"
+        ],
+        [
+          "restaurant",
+          "best",
+          "positive"
+        ],
+        [
+          "manager",
+          "friendly",
+          "positive"
+        ],
+        [
+          "customer service",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "decor",
+          "great",
+          "positive"
+        ],
+        [
+          "manager",
+          "friendly",
+          "positive"
+        ],
+        [
+          "customer service",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pepperoni",
+          "big thick",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pepperoni",
+          "big thick",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "blue ribbon",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "blue ribbon",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "blue ribbon sushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi restaurant",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "freshly prepared",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "egg white omelet",
+          "specialty",
+          "positive"
+        ],
+        [
+          "food",
+          "freshly prepared",
+          "positive"
+        ],
+        [
+          "brunch",
+          "die for",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "servers",
+          "attentive",
+          "positive"
+        ],
+        [
+          "servers",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "servers",
+          "attentive",
+          "positive"
+        ],
+        [
+          "servers",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "space",
+          "lovely",
+          "positive"
+        ],
+        [
+          "service",
+          "helpful",
+          "positive"
+        ],
+        [
+          "space",
+          "small",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "space",
+          "lovely",
+          "positive"
+        ],
+        [
+          "service",
+          "helpful",
+          "positive"
+        ],
+        [
+          "space",
+          "small",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "caesar salad",
+          "superb",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "caesar salad",
+          "superb",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "efficient",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "efficient",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "best",
+          "positive"
+        ],
+        [
+          "food",
+          "real",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "art on the walls",
+          "colorful",
+          "positive"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "portions",
+          "chintzy",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "portions",
+          "chintzy",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "jukebox's",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "jukebox",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "dinners",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "dinners",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "drinks",
+          "suberb",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "drinks",
+          "suberb",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "drinks",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "drinks",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "great",
+          "positive"
+        ],
+        [
+          "music",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "chickpeas",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "chickpeas",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "worst",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "worst",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "delectable",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "delectable",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "love",
+          "positive"
+        ],
+        [
+          "enchiladas",
+          "good",
+          "positive"
+        ],
+        [
+          "taco salads",
+          "good",
+          "positive"
+        ],
+        [
+          "burritos",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "enchiladas",
+          "love",
+          "positive"
+        ],
+        [
+          "taco salads",
+          "good",
+          "positive"
+        ],
+        [
+          "burritos",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "excellent",
+          "positive"
+        ],
+        [
+          "ambience",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "excellent",
+          "positive"
+        ],
+        [
+          "ambience",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "italian food",
+          "fabulous",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "italian food",
+          "fabulous",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu selection",
+          "fair",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "menu selection",
+          "fair",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "fine",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "salsa",
+          "tastier-than-normal",
+          "positive"
+        ],
+        [
+          "food",
+          "fine",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "appetizing",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "appetizing",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "cheap",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "cheap",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "pricey",
+          "neutral"
+        ],
+        [
+          "restaurant",
+          "isn't a fancy",
+          "neutral"
+        ],
+        [
+          "food",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "pricey",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "seared alaskan sea scallops",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "fennel",
+          "enjoyed",
+          "positive"
+        ],
+        [
+          "seared alaskan sea scallops",
+          "enjoyed",
+          "positive"
+        ],
+        [
+          "chard",
+          "enjoyed",
+          "positive"
+        ],
+        [
+          "pecorino toscano",
+          "enjoyed",
+          "positive"
+        ],
+        [
+          "artichoke hearts",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "freshest",
+          "positive"
+        ],
+        [
+          "service",
+          "superb",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "fish",
+          "freshest",
+          "positive"
+        ],
+        [
+          "service",
+          "superb",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ingrediants",
+          "tasty",
+          "positive"
+        ],
+        [
+          "ingrediants",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "ingrediants",
+          "tasty",
+          "positive"
+        ],
+        [
+          "ingrediants",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "restaurant",
+          "love",
+          "positive"
+        ],
+        [
+          "sushi",
+          "freshest",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "freshest",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "fresh",
+          "positive"
+        ],
+        [
+          "rolls",
+          "bland",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "rolls",
+          "bland",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "eats",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "eats",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "great",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "great",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sake",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sake",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sake selection",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sake selection",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "good",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "beer",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "beer",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "bottle of wine",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "bottle of wine",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "breakfast",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "breakfast",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "breakfast",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "breakfast",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "draft and bottle selection",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "draft",
+          "great",
+          "positive"
+        ],
+        [
+          "bottle selection",
+          "great",
+          "positive"
+        ],
+        [
+          "pizza",
+          "rocks",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "margaritas",
+          "better",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "margaritas",
+          "better",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "friendly",
+          "positive"
+        ],
+        [
+          "location",
+          "spectacular",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "friendly",
+          "positive"
+        ],
+        [
+          "location",
+          "spectacular",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "awesome",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "awesome",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "lunch spot",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "lunch spot",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "great",
+          "positive"
+        ],
+        [
+          "fish on the omikase platter",
+          "perfect",
+          "positive"
+        ],
+        [
+          "fish on the omikase platter",
+          "decadent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "meal",
+          "great",
+          "positive"
+        ],
+        [
+          "fish on the omikase platter",
+          "decadent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ambience",
+          "great open",
+          "positive"
+        ],
+        [
+          "ambience",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "ambience",
+          "great open",
+          "positive"
+        ],
+        [
+          "ambience",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "great",
+          "positive"
+        ],
+        [
+          "service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza",
+          "great",
+          "negative"
+        ],
+        [
+          "service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waterfront setting",
+          "classy",
+          "positive"
+        ],
+        [
+          "seafood",
+          "great",
+          "positive"
+        ],
+        [
+          "seasonal fish",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "fish",
+          "great",
+          "positive"
+        ],
+        [
+          "waterfront setting",
+          "classy",
+          "positive"
+        ],
+        [
+          "seafood",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "selection of sakes",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "selection of sakes",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "nice setting",
+          "positive"
+        ],
+        [
+          "sushi",
+          "high quality",
+          "positive"
+        ],
+        [
+          "setting",
+          "nice",
+          "positive"
+        ],
+        [
+          "sushi",
+          "great value",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "setting",
+          "nice",
+          "positive"
+        ],
+        [
+          "sushi",
+          "great value",
+          "positive"
+        ],
+        [
+          "quality",
+          "high",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "green tea creme brulee",
+          "must",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "green tea creme brulee",
+          "must",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "music",
+          "casual",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "music",
+          "groovy",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "lobster 3 ways",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "tuna",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "tuna",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "hummus",
+          "holy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "hummus",
+          "holy",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "lacking",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "lacking",
+          "negative"
+        ],
+        [
+          "value",
+          "lacking",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "gem",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "gem",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "cooks",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "cooks",
+          "friendly",
+          "positive"
+        ],
+        [
+          "wait staff",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "jellyfish",
+          "good",
+          "positive"
+        ],
+        [
+          "horse mackerel",
+          "good",
+          "positive"
+        ],
+        [
+          "blue fin tuna",
+          "good",
+          "positive"
+        ],
+        [
+          "sake ikura roll",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "jellyfish",
+          "good",
+          "positive"
+        ],
+        [
+          "horse mackerel",
+          "good",
+          "positive"
+        ],
+        [
+          "blue fin tuna",
+          "good",
+          "positive"
+        ],
+        [
+          "sake ikura roll",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "feeling",
+          "intimate",
+          "positive"
+        ],
+        [
+          "decor",
+          "simplicity",
+          "positive"
+        ],
+        [
+          "decor",
+          "enjoy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "decor",
+          "enjoy",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "never disappointed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "never disappointed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "italian restaurant",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "italian restaurant",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "delivery",
+          "appreciate",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "delivery",
+          "appreciate",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "paneer",
+          "recommend",
+          "positive"
+        ],
+        [
+          "korma",
+          "recommend",
+          "positive"
+        ],
+        [
+          "saag",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "paneer",
+          "recommend",
+          "positive"
+        ],
+        [
+          "korma",
+          "recommend",
+          "positive"
+        ],
+        [
+          "saag",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "manager",
+          "not even apologetic",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "dessert of a port and chocolate tasting",
+          "yummy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "dessert",
+          "unusual",
+          "positive"
+        ],
+        [
+          "port and chocolate tasting",
+          "yummy",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "shellfish and shrimp appetizer",
+          "alright",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "shellfish and shrimp appetizer",
+          "alright",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "plate",
+          "superb",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "items",
+          "superb",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "kafta plate",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "kafta plate",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "samosas",
+          "yummy",
+          "positive"
+        ],
+        [
+          "lamb korma",
+          "yummy",
+          "positive"
+        ],
+        [
+          "saag paneer",
+          "yummy",
+          "positive"
+        ],
+        [
+          "naan",
+          "yummy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "samosas",
+          "yummy",
+          "positive"
+        ],
+        [
+          "lamb korma",
+          "yummy",
+          "positive"
+        ],
+        [
+          "saag paneer",
+          "yummy",
+          "positive"
+        ],
+        [
+          "naan",
+          "yummy",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "restroom",
+          "odd",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "bathroom attendant",
+          "odd",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "chef special dinner",
+          "dissappointment",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "chef special dinner",
+          "dissappointment",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "bad",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "bad",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "variety of the fish",
+          "excellent",
+          "positive"
+        ],
+        [
+          "quality",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "lacks quality and good taste",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "liked",
+          "positive"
+        ],
+        [
+          "food",
+          "not worth the price",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "liked",
+          "positive"
+        ],
+        [
+          "food",
+          "not worth the price",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "breakfast",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "breakfast",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "dungeness crabs",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "dungeness crabs",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "environment",
+          "warm",
+          "positive"
+        ],
+        [
+          "environment",
+          "cosy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "environment",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "restaurant",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "restaurant",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "okay",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "okay",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "asparagus",
+          "incredible",
+          "positive"
+        ],
+        [
+          "asparagus",
+          "perfectly prepared",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "asparagus",
+          "incredible",
+          "positive"
+        ],
+        [
+          "asparagus",
+          "perfectly prepared",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "unique",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "unique",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "mediocre",
+          "negative"
+        ],
+        [
+          "beer",
+          "warm",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "beer",
+          "warm",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "prawns",
+          "fresh",
+          "positive"
+        ],
+        [
+          "prawns",
+          "nicely cooked",
+          "positive"
+        ],
+        [
+          "scallops",
+          "nicely cooked",
+          "positive"
+        ],
+        [
+          "scallops",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "prawns",
+          "nicely cooked",
+          "positive"
+        ],
+        [
+          "scallops",
+          "nicely cooked",
+          "positive"
+        ],
+        [
+          "scallops",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "brunch food",
+          "average",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "brunch food",
+          "average",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi dishes",
+          "creative",
+          "positive"
+        ],
+        [
+          "portions",
+          "large",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi dishes",
+          "creative",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ray's",
+          "happy surprise",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "views",
+          "third-best",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "spot",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "spot",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pancakes",
+          "small",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "breakfast burrito",
+          "small",
+          "neutral"
+        ],
+        [
+          "pancakes",
+          "small",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "indoor ambience",
+          "modern",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "indoor ambience",
+          "modern",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "great little",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "great little",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "enjoy",
+          "positive"
+        ],
+        [
+          "place",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "tiny",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "tiny",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "location",
+          "not the greatest",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "coming back",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "spot",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "spot",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "red wine reduction",
+          "indistinguishable",
+          "neutral"
+        ],
+        [
+          "peppercorn sauce",
+          "indistinguishable",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "red wine reduction",
+          "indistinguishable",
+          "negative"
+        ],
+        [
+          "peppercorn sauce",
+          "indistinguishable",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "quick",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "quick",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "great",
+          "positive"
+        ],
+        [
+          "service",
+          "better",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "great",
+          "positive"
+        ],
+        [
+          "service",
+          "better",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "worth",
+          "positive"
+        ],
+        [
+          "sushi",
+          "isn't the cheapest",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "cheapest",
+          "positive"
+        ],
+        [
+          "sushi",
+          "worth",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "seafood",
+          "wasn't the freshest",
+          "neutral"
+        ],
+        [
+          "seafood",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "seafood",
+          "wasn't the freshest",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "exeptional",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "exeptional",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "enchiladas",
+          "love",
+          "positive"
+        ],
+        [
+          "chicken soup",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "enchiladas",
+          "love",
+          "positive"
+        ],
+        [
+          "chicken soup",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza place",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza place",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "great",
+          "positive"
+        ],
+        [
+          "service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza",
+          "great",
+          "negative"
+        ],
+        [
+          "service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "decent",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "fish",
+          "decent",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "rolls",
+          "tasty",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sashmi",
+          "melt",
+          "positive"
+        ],
+        [
+          "rolls",
+          "tasty",
+          "positive"
+        ],
+        [
+          "nigiri",
+          "melt",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "creative",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "creative",
+          "positive"
+        ],
+        [
+          "food",
+          "excited",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "view",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "view",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza joint",
+          "favortie",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza joint",
+          "favortie",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "green beans",
+          "crisp",
+          "positive"
+        ],
+        [
+          "creamed washington russet potatoes",
+          "delectable",
+          "positive"
+        ],
+        [
+          "grilled alaskan king salmon",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "mediocre",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "soy dressing",
+          "tasty",
+          "positive"
+        ],
+        [
+          "butter sauce",
+          "sublime",
+          "positive"
+        ],
+        [
+          "manila clams",
+          "fantastic",
+          "positive"
+        ],
+        [
+          "white gulf prawns",
+          "enormous",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "butter sauce",
+          "sublime",
+          "positive"
+        ],
+        [
+          "shilshole sampler",
+          "ambitious",
+          "positive"
+        ],
+        [
+          "smoked albacore tuna",
+          "beautiful",
+          "positive"
+        ],
+        [
+          "white gulf prawns",
+          "beautiful",
+          "positive"
+        ],
+        [
+          "manila clams",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "stellar",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "stellar",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ambience",
+          "nice",
+          "positive"
+        ],
+        [
+          "place",
+          "overrated",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "ambience",
+          "nice",
+          "positive"
+        ],
+        [
+          "place",
+          "overrated",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "nice",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "balconey",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "balconey",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "traditional",
+          "positive"
+        ],
+        [
+          "selection",
+          "innovative",
+          "positive"
+        ],
+        [
+          "sushi",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "selection",
+          "innovative",
+          "positive"
+        ],
+        [
+          "balance of traditional sushi",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "portions",
+          "not the biggest",
+          "neutral"
+        ],
+        [
+          "portions",
+          "adequate",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "portions",
+          "adequate",
+          "negative"
+        ],
+        [
+          "portions",
+          "not the biggest",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "less than amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "cheese fries",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "cheese fries",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "view",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "view",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiter",
+          "dismissive",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "waiter",
+          "dismissive",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi place",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi place",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "best",
+          "positive"
+        ],
+        [
+          "coffee",
+          "best",
+          "positive"
+        ],
+        [
+          "place",
+          "cool",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "coffee",
+          "best",
+          "positive"
+        ],
+        [
+          "pizza",
+          "best",
+          "positive"
+        ],
+        [
+          "place",
+          "open & cool",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "server",
+          "attentive",
+          "positive"
+        ],
+        [
+          "ray's",
+          "appropriate",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "server",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "server",
+          "friendly",
+          "positive"
+        ],
+        [
+          "server",
+          "professional",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "server",
+          "friendly",
+          "positive"
+        ],
+        [
+          "server",
+          "professional",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiter",
+          "non-existent",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "waiter",
+          "non-existent",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "plenty of",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "plenty",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "waitstaff",
+          "accomodating",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waitstaff",
+          "unbelievably accomodating",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "poor",
+          "negative"
+        ],
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza",
+          "poor",
+          "negative"
+        ],
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "portions",
+          "enough",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "portions",
+          "enough",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "young woman",
+          "don't like",
+          "negative"
+        ],
+        [
+          "servers",
+          "don't like",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "servers",
+          "don't like",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sound views",
+          "gorgeous",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "ray's",
+          "gorgeous sound",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "rice",
+          "too dry",
+          "negative"
+        ],
+        [
+          "tuna",
+          "wasn't so fresh",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "tuna",
+          "wasn't so fresh",
+          "negative"
+        ],
+        [
+          "rice",
+          "dry",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "desserts",
+          "scrumptious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "desserts",
+          "scrumptious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "seabass on lobster risotto",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "seabass on lobster risotto",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "winelist",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "winelist",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sake",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "server",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "decent",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "decent",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "slow",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "slow",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "batter",
+          "crispiness",
+          "positive"
+        ],
+        [
+          "walnuts",
+          "crunchy",
+          "positive"
+        ],
+        [
+          "walnuts",
+          "tasty",
+          "positive"
+        ],
+        [
+          "prawns",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "prawns",
+          "crispiness",
+          "positive"
+        ],
+        [
+          "prawns",
+          "fresh",
+          "positive"
+        ],
+        [
+          "walnuts",
+          "tasty",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "space",
+          "limited",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "made up",
+          "positive"
+        ],
+        [
+          "space",
+          "limited",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "terrible",
+          "negative"
+        ],
+        [
+          "food",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "pricey",
+          "negative"
+        ],
+        [
+          "service",
+          "terrible",
+          "negative"
+        ],
+        [
+          "food",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ambiance",
+          "good",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "ambiance",
+          "good",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "nice",
+          "positive"
+        ],
+        [
+          "dinning",
+          "fine",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ambiance",
+          "relaxing",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "peaceful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "ambiance",
+          "relaxing",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "peaceful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "appetizer",
+          "interesting",
+          "positive"
+        ],
+        [
+          "creme brulee",
+          "delicious",
+          "positive"
+        ],
+        [
+          "creme brulee",
+          "savory",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "appetizer",
+          "interesting",
+          "positive"
+        ],
+        [
+          "creme brulee",
+          "delicious",
+          "positive"
+        ],
+        [
+          "creme brulee",
+          "savory",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "aspiring",
+          "positive"
+        ],
+        [
+          "decor",
+          "amazing",
+          "positive"
+        ],
+        [
+          "decor",
+          "festive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "aspiring",
+          "positive"
+        ],
+        [
+          "decor",
+          "amazing",
+          "positive"
+        ],
+        [
+          "decor",
+          "festive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "okay",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "okay",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "band",
+          "good",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "band",
+          "good",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "bathroom",
+          "small",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "bathroom",
+          "small",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "calamari",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "calamari",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "chuwam mushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "chuwam mushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "honwy walnut prawns",
+          "best",
+          "positive"
+        ],
+        [
+          "honwy walnut prawns",
+          "outstanding",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "dish",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "brocollis",
+          "tasty",
+          "positive"
+        ],
+        [
+          "brocollis",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "brocollis",
+          "tasty",
+          "positive"
+        ],
+        [
+          "brocollis",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "caesar salad",
+          "couldn't eat",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "caesar salad",
+          "lemon",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "raouls chicken vegetable soup",
+          "rocks my world",
+          "positive"
+        ],
+        [
+          "catering",
+          "out of this world",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "raouls chicken vegetable soup",
+          "rocks",
+          "positive"
+        ],
+        [
+          "catering",
+          "out of this world",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "chana masala ( garbanzo beans )",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "chana masala ( garbanzo beans )",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "chicken tikka masala",
+          "favorite",
+          "positive"
+        ],
+        [
+          "chicken curry",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "chicken tikka masala",
+          "favorite",
+          "positive"
+        ],
+        [
+          "chicken curry",
+          "favorite",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "coffe",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "coffe",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "decor",
+          "rustic",
+          "neutral"
+        ],
+        [
+          "decor",
+          "traditional japanese",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "decor",
+          "rustic",
+          "positive"
+        ],
+        [
+          "decor",
+          "traditional",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "decor",
+          "beautiful",
+          "positive"
+        ],
+        [
+          "decor",
+          "unique",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "decor",
+          "beautiful",
+          "positive"
+        ],
+        [
+          "decor",
+          "unique",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "dinner",
+          "perfect",
+          "positive"
+        ],
+        [
+          "desert",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "desert",
+          "perfect",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "accomodating",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "accomodating",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "thin",
+          "negative"
+        ],
+        [
+          "fish",
+          "fresh",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "fish",
+          "thin",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiting staff",
+          "perfect",
+          "positive"
+        ],
+        [
+          "food",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waiting staff",
+          "perfect",
+          "positive"
+        ],
+        [
+          "food",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "delicious",
+          "positive"
+        ],
+        [
+          "food",
+          "fantastic",
+          "positive"
+        ],
+        [
+          "food",
+          "affordable",
+          "positive"
+        ],
+        [
+          "food",
+          "authentic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "delicious",
+          "positive"
+        ],
+        [
+          "food",
+          "fantastic",
+          "positive"
+        ],
+        [
+          "food",
+          "affordable",
+          "positive"
+        ],
+        [
+          "food",
+          "authentic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "bloody mary",
+          "mean",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "worst",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "not what it once was",
+          "negative"
+        ],
+        [
+          "service",
+          "worst",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "unforgettable",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "unforgettable",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "sinful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "sinful",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "good",
+          "negative"
+        ],
+        [
+          "food",
+          "too mild",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "good",
+          "negative"
+        ],
+        [
+          "food",
+          "mild",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waitress",
+          "too busy",
+          "negative"
+        ],
+        [
+          "margaritas",
+          "great",
+          "positive"
+        ],
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "poor",
+          "negative"
+        ],
+        [
+          "food",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "poor",
+          "negative"
+        ],
+        [
+          "food",
+          "ok",
+          "neutral"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "filet mignon",
+          "best",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "filet mignon",
+          "best",
+          "positive"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "house special roll",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "house special roll",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "honey walnut prawns",
+          "not good",
+          "negative"
+        ],
+        [
+          "lemon chicken",
+          "sticky sweet",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "honey walnut prawns",
+          "not good",
+          "negative"
+        ],
+        [
+          "lemon chicken",
+          "sticky sweet",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "lunch menu",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "lunch menu",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "lighthearted",
+          "positive"
+        ],
+        [
+          "music",
+          "great",
+          "positive"
+        ],
+        [
+          "bar tenders",
+          "generous",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "lighthearted",
+          "positive"
+        ],
+        [
+          "music",
+          "great",
+          "positive"
+        ],
+        [
+          "bar tenders",
+          "generous",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "subwoofer to the sound system",
+          "annoying",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "naan",
+          "best",
+          "positive"
+        ],
+        [
+          "bhartha",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "naan",
+          "best",
+          "positive"
+        ],
+        [
+          "bhartha",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiters",
+          "nicest",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waiters",
+          "nicest",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "onion rings",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "onion rings",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "expensive",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "portions",
+          "small",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "slow",
+          "negative"
+        ],
+        [
+          "seating",
+          "crowded",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "slow",
+          "negative"
+        ],
+        [
+          "seating",
+          "drawback",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "location",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "mioposto",
+          "positive",
+          "positive"
+        ],
+        [
+          "location",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "abbreviated",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "outside patio area",
+          "abbreviated",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "owner",
+          "belligerent",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "owner",
+          "belligerent",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "owners",
+          "great",
+          "positive"
+        ],
+        [
+          "beer selection",
+          "worth staying for",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "beer selection",
+          "worth staying",
+          "positive"
+        ],
+        [
+          "owners",
+          "great fun",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "pancakes",
+          "should be larger",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "pancakes",
+          "larger",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "pancakes",
+          "over-priced",
+          "negative"
+        ],
+        [
+          "pancakes",
+          "inventive",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "salads",
+          "fantastic",
+          "positive"
+        ],
+        [
+          "pizza",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "salads",
+          "fantastic",
+          "positive"
+        ],
+        [
+          "pizza",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "not exactly the best",
+          "positive"
+        ],
+        [
+          "pizza",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza",
+          "good",
+          "negative"
+        ],
+        [
+          "pizza",
+          "not exactly the best",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "crust",
+          "thin",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "crust",
+          "thin",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "creative",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "creative",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "portions",
+          "big",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "portions",
+          "big",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "snooze",
+          "excellent",
+          "negative"
+        ],
+        [
+          "menu",
+          "high brow",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "snooze",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "regular menu",
+          "not worth the snotty attitude",
+          "neutral"
+        ],
+        [
+          "regular menu",
+          "above average",
+          "neutral"
+        ]
+      ],
+      "preds": [
+        [
+          "regular menu",
+          "not worth",
+          "negative"
+        ],
+        [
+          "regular menu",
+          "above average",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "ambiance",
+          "won't forget",
+          "positive"
+        ],
+        [
+          "wine list",
+          "extensive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "wine list",
+          "extensive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sashimi",
+          "tender",
+          "positive"
+        ],
+        [
+          "sashimi",
+          "freshest",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sashimi",
+          "tender",
+          "positive"
+        ],
+        [
+          "sashimi",
+          "freshest",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "scallops",
+          "unique",
+          "positive"
+        ],
+        [
+          "scallops",
+          "tasty",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "scallops",
+          "unique",
+          "positive"
+        ],
+        [
+          "scallops",
+          "tasty",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "servers behind the counter",
+          "friendly",
+          "positive"
+        ],
+        [
+          "servers behind the counter",
+          "helpful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "servers",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "fun",
+          "positive"
+        ],
+        [
+          "service",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "fun",
+          "positive"
+        ],
+        [
+          "service",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "charming",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "charming",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "offensive",
+          "negative"
+        ],
+        [
+          "service",
+          "mediocre",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "offensive",
+          "neutral"
+        ],
+        [
+          "service",
+          "mediocre",
+          "neutral"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "courteous",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "courteous",
+          "positive"
+        ],
+        [
+          "service",
+          "attentive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "coffee",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "outstanding",
+          "positive"
+        ],
+        [
+          "service",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "coffee",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "outstanding",
+          "positive"
+        ],
+        [
+          "service",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiters",
+          "friendly",
+          "positive"
+        ],
+        [
+          "service",
+          "exceptional",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waiters",
+          "friendly",
+          "positive"
+        ],
+        [
+          "service",
+          "exceptional",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "labne ( yogurt dip )",
+          "side of potatoes",
+          "positive"
+        ],
+        [
+          "side of potatoes",
+          "die for",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "labne ( yogurt dip )",
+          "die for",
+          "positive"
+        ],
+        [
+          "side of potatoes",
+          "die for",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sommelier",
+          "down-to-earth",
+          "positive"
+        ],
+        [
+          "sommelier",
+          "knowlegable",
+          "positive"
+        ],
+        [
+          "sommelier",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sommelier",
+          "down-to-earth",
+          "positive"
+        ],
+        [
+          "sommelier",
+          "knowlegable",
+          "positive"
+        ],
+        [
+          "sommelier",
+          "fantastic",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pancakes",
+          "decadent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pancakes",
+          "decadent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ],
+        [
+          "decor",
+          "ethic",
+          "positive"
+        ],
+        [
+          "decor",
+          "colorful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ],
+        [
+          "decor",
+          "ethic",
+          "positive"
+        ],
+        [
+          "decor",
+          "colorful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "friendly",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "staff",
+          "nice",
+          "positive"
+        ],
+        [
+          "staff",
+          "chinese",
+          "positive"
+        ],
+        [
+          "staff",
+          "courteous",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "nice",
+          "positive"
+        ],
+        [
+          "staff",
+          "chinese",
+          "positive"
+        ],
+        [
+          "staff",
+          "courteous",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "steak",
+          "nice",
+          "positive"
+        ],
+        [
+          "steak",
+          "juicy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "steak",
+          "nice",
+          "positive"
+        ],
+        [
+          "steak",
+          "juicy",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "fresh",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "wait staff",
+          "quick",
+          "positive"
+        ],
+        [
+          "sushi",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "wait staff",
+          "quick",
+          "positive"
+        ],
+        [
+          "sushi",
+          "excellent",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "feel",
+          "crowded",
+          "negative"
+        ],
+        [
+          "waiter",
+          "unfriendly",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "feel",
+          "crowded",
+          "negative"
+        ],
+        [
+          "waiter",
+          "unfriendly",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiters",
+          "helpful",
+          "positive"
+        ],
+        [
+          "waiters",
+          "experienced",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "waiters",
+          "helpful",
+          "positive"
+        ],
+        [
+          "waiters",
+          "experienced",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "wine list",
+          "extensive",
+          "positive"
+        ],
+        [
+          "wine list",
+          "incredible",
+          "positive"
+        ],
+        [
+          "food",
+          "incredible",
+          "positive"
+        ],
+        [
+          "wine list",
+          "diverse",
+          "positive"
+        ],
+        [
+          "staff",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "staff",
+          "good",
+          "positive"
+        ],
+        [
+          "wine list",
+          "extensive",
+          "positive"
+        ],
+        [
+          "wine list",
+          "incredible",
+          "positive"
+        ],
+        [
+          "food",
+          "incredible",
+          "positive"
+        ],
+        [
+          "wine list",
+          "diverse",
+          "positive"
+        ],
+        [
+          "staff",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "wine list",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "wine list",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "apps",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "apps",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "crab eggs benedict",
+          "addicting",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "crab eggs benedict",
+          "addicting",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "specialty rolls",
+          "impressive",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "specialty rolls",
+          "impressive",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "good",
+          "positive"
+        ],
+        [
+          "people",
+          "happy",
+          "positive"
+        ],
+        [
+          "music",
+          "good",
+          "positive"
+        ],
+        [
+          "vibe",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "good",
+          "positive"
+        ],
+        [
+          "vibe",
+          "nice",
+          "positive"
+        ],
+        [
+          "music",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fish",
+          "wide variety",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "variety of fish",
+          "wide",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "rolls",
+          "complex",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "rolls",
+          "complex",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "juice",
+          "small",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "hour-glass shaped glass",
+          "skinny",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "meal",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "relax",
+          "positive"
+        ],
+        [
+          "food",
+          "finest quality",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "finest quality",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "charming",
+          "positive"
+        ],
+        [
+          "place",
+          "relaxing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "charming",
+          "positive"
+        ],
+        [
+          "place",
+          "relaxing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "better",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "frozen pizza",
+          "better",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "brooke",
+          "lovely",
+          "positive"
+        ],
+        [
+          "brooke",
+          "quickly",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "server brooke",
+          "lovely",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "rolls",
+          "tasty",
+          "positive"
+        ],
+        [
+          "smoked yellowtail",
+          "incredible",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "smoked yellowtail",
+          "incredible",
+          "positive"
+        ],
+        [
+          "rolls",
+          "tasty",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza ensalata",
+          "try",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza ensalata",
+          "try",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "unbeatable",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "unbeatable",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "average",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "without ever",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "without ever getting",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "shoe string onions",
+          "good",
+          "positive"
+        ],
+        [
+          "grilled asparagus",
+          "good",
+          "positive"
+        ],
+        [
+          "fried brie with fruit",
+          "good",
+          "positive"
+        ],
+        [
+          "goat cheese pizza",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "grilled asparagus",
+          "good",
+          "positive"
+        ],
+        [
+          "fried brie with fruit",
+          "good",
+          "positive"
+        ],
+        [
+          "small plates",
+          "good",
+          "positive"
+        ],
+        [
+          "shoe string onions",
+          "good",
+          "positive"
+        ],
+        [
+          "goat cheese pizza",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "black cod in sake kasu",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "black cod in sake kasu",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "employees",
+          "ignoring",
+          "negative"
+        ]
+      ],
+      "preds": [],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "table",
+          "private",
+          "positive"
+        ],
+        [
+          "table",
+          "nice",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "table",
+          "private",
+          "positive"
+        ],
+        [
+          "table",
+          "nice",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "people",
+          "nice",
+          "positive"
+        ],
+        [
+          "food",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "people",
+          "nice",
+          "positive"
+        ],
+        [
+          "food",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "horrible",
+          "negative"
+        ],
+        [
+          "atmosphere",
+          "cozy",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "horrible",
+          "negative"
+        ],
+        [
+          "atmosphere",
+          "cozy",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "wood decor",
+          "incredible",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "wood decor",
+          "incredible",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "wonderful",
+          "positive"
+        ],
+        [
+          "server",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "server",
+          "wonderful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "restaurant staff",
+          "indifferent",
+          "negative"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "restaurant staff",
+          "indifferent",
+          "negative"
+        ],
+        [
+          "service",
+          "lack",
+          "negative"
+        ],
+        [
+          "food",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "worst",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "worst",
+          "negative"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "menu",
+          "won ’ t be disappointed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "menu",
+          "won ’ t be disappointed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "soho location",
+          "killer",
+          "positive"
+        ],
+        [
+          "sake",
+          "great",
+          "positive"
+        ],
+        [
+          "fish",
+          "love expertly cut",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "salmon",
+          "killer",
+          "positive"
+        ],
+        [
+          "tuna",
+          "killer",
+          "positive"
+        ],
+        [
+          "sake",
+          "great",
+          "positive"
+        ],
+        [
+          "fish",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "deck",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "deck",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "bad",
+          "negative"
+        ],
+        [
+          "food",
+          "overpriced",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "food",
+          "overpriced",
+          "negative"
+        ],
+        [
+          "mioposto's service",
+          "bad",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "mexican place",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "bar",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "bar",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fresh fruit",
+          "delicious",
+          "positive"
+        ],
+        [
+          "yogurt",
+          "delicious",
+          "positive"
+        ],
+        [
+          "eggs",
+          "delicious",
+          "positive"
+        ],
+        [
+          "pancakes",
+          "delicious",
+          "positive"
+        ],
+        [
+          "potatoes",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "yogurt",
+          "delicious",
+          "positive"
+        ],
+        [
+          "eggs",
+          "delicious",
+          "positive"
+        ],
+        [
+          "fresh fruit",
+          "fresh",
+          "positive"
+        ],
+        [
+          "pancakes",
+          "delicious",
+          "positive"
+        ],
+        [
+          "potatoes",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "b fast burritos",
+          "great",
+          "positive"
+        ],
+        [
+          "corn beef hash",
+          "great",
+          "positive"
+        ],
+        [
+          "coffee",
+          "great",
+          "positive"
+        ],
+        [
+          "menu",
+          "great",
+          "positive"
+        ],
+        [
+          "drinks",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "coffee",
+          "great",
+          "positive"
+        ],
+        [
+          "corn beef hash",
+          "great",
+          "positive"
+        ],
+        [
+          "menu",
+          "gluten free",
+          "positive"
+        ],
+        [
+          "drinks",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "mexican spot",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "financial district mexican spot",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "sushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "sushi",
+          "best",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "ray's boathouse",
+          "exceeded my expectations",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "dinner",
+          "exceeded",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "murphy's",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "murphy's",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "fajita salad",
+          "delicious",
+          "positive"
+        ],
+        [
+          "colorado",
+          "delicious",
+          "positive"
+        ],
+        [
+          "fajitas",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "fajita salad",
+          "delicious",
+          "positive"
+        ],
+        [
+          "colorado",
+          "delicious",
+          "positive"
+        ],
+        [
+          "fajitas",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "bad",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "meal",
+          "never had one bad",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "mioposto",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "mioposto",
+          "recommend",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "filet mignon on top of spinach and mashed potatoes",
+          "loved",
+          "positive"
+        ],
+        [
+          "goat cheese gnocchi",
+          "loved",
+          "positive"
+        ],
+        [
+          "pumpkin ravioli",
+          "loved",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "filet mignon",
+          "loved",
+          "positive"
+        ],
+        [
+          "goat cheese gnocchi",
+          "loved",
+          "positive"
+        ],
+        [
+          "pumpkin ravioli",
+          "loved",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "meal",
+          "enjoyed",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "restaurant",
+          "delightful",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "restaurant",
+          "delightful",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "meal",
+          "amazing",
+          "positive"
+        ],
+        [
+          "service",
+          "amazing",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "meal",
+          "amazing",
+          "positive"
+        ],
+        [
+          "service",
+          "amazing",
+          "positive"
+        ],
+        [
+          "ambiance",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "high quality",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "good",
+          "positive"
+        ],
+        [
+          "food",
+          "high quality",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza",
+          "love",
+          "positive"
+        ],
+        [
+          "mushroom pizza",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pizza",
+          "love",
+          "positive"
+        ],
+        [
+          "mushroom pizza",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "mercedes restaurant",
+          "tasty",
+          "positive"
+        ],
+        [
+          "service",
+          "awesome",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pizza menu",
+          "creative",
+          "positive"
+        ],
+        [
+          "pizza menu",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "mioposto",
+          "creative",
+          "positive"
+        ],
+        [
+          "pizza menu",
+          "delicious",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "mioposto café",
+          "love",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "mioposto café",
+          "love",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "seafood dinners",
+          "high quality",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "seafood dinners",
+          "high quality",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "location",
+          "charming",
+          "positive"
+        ],
+        [
+          "food",
+          "average",
+          "neutral"
+        ],
+        [
+          "customer service",
+          "poor",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "atmosphere",
+          "great",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "food",
+          "incredible",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "quality",
+          "inconsistent",
+          "negative"
+        ],
+        [
+          "food",
+          "incredible",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "waiters",
+          "rude",
+          "negative"
+        ],
+        [
+          "food",
+          "not great",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "waiters",
+          "rude",
+          "negative"
+        ],
+        [
+          "food",
+          "not great",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "pepperoni's",
+          "yum",
+          "positive"
+        ],
+        [
+          "pepperoni's",
+          "thick",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "pepperoni",
+          "thick",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "restaurant",
+          "moderately priced",
+          "negative"
+        ],
+        [
+          "sushi",
+          "good",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "slices of fish",
+          "larger",
+          "negative"
+        ],
+        [
+          "sushi",
+          "good",
+          "positive"
+        ]
+      ],
+      "isExist": 0
+    },
+    {
+      "labels": [
+        [
+          "service",
+          "fast",
+          "positive"
+        ],
+        [
+          "portions",
+          "huge",
+          "positive"
+        ],
+        [
+          "margaritas",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "preds": [
+        [
+          "service",
+          "fast",
+          "positive"
+        ],
+        [
+          "portions",
+          "huge",
+          "positive"
+        ],
+        [
+          "lunch spots",
+          "top",
+          "positive"
+        ],
+        [
+          "margaritas",
+          "amazing",
+          "positive"
+        ]
+      ],
+      "isExist": 1
+    },
+    {
+      "labels": [
+        [
+          "place",
+          "over-rated",
+          "negative"
+        ]
+      ],
+      "preds": [
+        [
+          "place",
+          "over-rated",
+          "negative"
+        ]
+      ],
+      "isExist": 1
+    }
+  ],
+  "result": {
+    "precision": 0.7379032258064516,
+    "recall": 0.7120622568093385,
+    "f1_score": 0.7247524752475247,
+    "n_preds": 496,
+    "n_labels": 514,
+    "n_common": 366
+  }
+}

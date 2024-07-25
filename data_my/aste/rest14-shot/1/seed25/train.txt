@@ -1,0 +1,3 @@
+aste	rest14	guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .####[([0, 1], [4], 'pos'), ([10], [13], 'pos'), ([27], [30], 'pos')]
+aste	rest14	the staff is incredibly helpful and attentive .####[([1], [4], 'pos'), ([1], [6], 'pos')]
+aste	rest14	i was really disappointed ant wanted to tell everyone not to go eat or even take out food from there .####[([17], [3], 'neg')]

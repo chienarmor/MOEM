@@ -1,0 +1,3 @@
+aste	rest16	this staff should be fired .####[([1], [4], 'neg')]
+aste	rest16	i found the food to be outstanding , particulary the salmon dish i had .####[([3], [6], 'pos'), ([10, 11], [6], 'pos')]
+aste	rest16	the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .####[([1], [3], 'pos'), ([1], [5], 'pos'), ([8], [11], 'pos'), ([17, 18], [16], 'pos')]

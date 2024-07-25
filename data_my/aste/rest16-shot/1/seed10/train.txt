@@ -1,0 +1,3 @@
+aste	rest16	i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side .####[([19], [16], 'neg'), ([24], [26], 'neg'), ([24], [30], 'neg')]
+aste	rest16	worth visiting the 1st ave spot because it is the original store .####[([3, 4, 5], [0, 1], 'pos')]
+aste	rest16	wine list is extensive without being over-priced .####[([0, 1], [3, 4, 5, 6], 'pos')]

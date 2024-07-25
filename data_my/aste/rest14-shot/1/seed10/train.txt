@@ -1,0 +1,3 @@
+aste	rest14	they did not have mayonnaise , forgot our toast , left out ingredients ( ie cheese in an omelet ) , below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it .####[([8], [6], 'neg'), ([26], [29, 30], 'neg'), ([15], [10, 11], 'neu'), ([12], [10, 11], 'neg'), ([35], [29, 30], 'neu'), ([18], [10, 11], 'neu')]
+aste	rest14	while there are plenty of places to go for a good corned beef sandwich , katz 's has a charm about it .####[([11, 12, 13], [10], 'pos')]
+aste	rest14	the service is good and the resturant is clean .####[([1], [3], 'pos')]

@@ -1,0 +1,8 @@
+aste	rest16	have never had a problem with service save a missing rice once .####[([6], [4], 'pos')]
+aste	rest16	my favorite place lol####[([2], [1], 'pos')]
+aste	rest16	the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####[([22], [19], 'pos'), ([22], [21], 'pos'), ([1], [5], 'neu')]
+aste	rest16	i have to say i have never had a disapointing meal here .####[([10], [6, 7, 8, 9], 'pos')]
+aste	rest16	try their chef 's specials -- they are to die for .####[([2, 3, 4], [0], 'pos'), ([2, 3, 4], [9, 10], 'pos')]
+aste	rest16	the decor in this place is very diner-ish and the kind of place you expect in the east village - not romantic , just simple , small and sparse .####[([1], [7], 'neu')]
+aste	rest16	i loved this place ! !####[([3], [1], 'pos')]
+aste	rest16	but the staff was so horrible to us .####[([2], [5], 'neg')]

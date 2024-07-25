@@ -1,0 +1,6 @@
+aste	rest15	the people that work there are always so friendly you forget you are in new york sometimes .####[([1], [8], 'pos')]
+aste	rest15	we took advanatage of the half price sushi deal on saturday so it was well worth it .####[([5, 6, 7, 8], [15], 'pos')]
+aste	rest15	best pastrami i ever had and great portion without being ridiculous .####[([1], [0], 'pos'), ([7], [6], 'pos')]
+aste	rest15	service was also very good .####[([0], [4], 'pos')]
+aste	rest15	this quaint and romantic trattoria is at the top of my manhattan restaurant list .####[([4], [1], 'pos'), ([4], [3], 'pos')]
+aste	rest15	have frequented 'ino for several years and the food remains excellent .####[([8], [10], 'pos')]

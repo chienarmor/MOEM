@@ -1,0 +1,33 @@
+Here are examples (from the train set):
+Sample 1 - Index: 0
+all_inputs: ['But', 'the', 'staff', 'was', 'so', 'horrible', 'to', 'us', '.']
+all_targets: [([2], [5], 'NEG')]
+target_str: aspect: staff, opinion: horrible, sentiment: negative
+            [A] sushi [O] can not be beaten [S] ok
+
+
+Sample 2 - Index: 1
+all_inputs: ['To', 'be', 'completely', 'fair', ',', 'the', 'only', 'redeeming', 'factor', 'was', 'the', 'food', ',', 'which', 'was', 'above', 'average', ',', 'but', 'could', "n't", 'make', 'up', 'for', 'all', 'the', 'other', 'deficiencies', 'of', 'Teodora', '.']
+all_targets: [([11], [15, 16], 'POS')]
+target_str: aspect: food, opinion: above average, sentiment: positive
+
+
+Sample 3 - Index: 2
+all_inputs: ['The', 'food', 'is', 'uniformly', 'exceptional', ',', 'with', 'a', 'very', 'capable', 'kitchen', 'which', 'will', 'proudly', 'whip', 'up', 'whatever', 'you', 'feel', 'like', 'eating', ',', 'whether', 'it', "'s", 'on', 'the', 'menu', 'or', 'not', '.']
+all_targets: [([1], [4], 'POS'), ([10], [9], 'POS')]
+target_str: aspect: food, opinion: exceptional, sentiment: positive [SSEP] aspect: kitchen, opinion: capable, sentiment: positive
+test_result: {'input_ids': tensor([[ 2663,    10,   542,     6,  3474,    10,  5916,     6,  6493,    10,
+          1465, 32100,  2663,    10,  1228,     6,  3474,    10,  3919,     6,
+          6493,    10,  1465,     1]]), 'attention_mask': tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]])}
+
+
+Sample 4 - Index: 3
+all_inputs: ['Our', 'agreed', 'favorite', 'is', 'the', 'orrechiete', 'with', 'sausage', 'and', 'chicken', '(', 'usually', 'the', 'waiters', 'are', 'kind', 'enough', 'to', 'split', 'the', 'dish', 'in', 'half', 'so', 'you', 'get', 'to', 'sample', 'both', 'meats', ')', '.']
+all_targets: [([5, 6, 7, 8, 9], [2], 'POS'), ([13], [15], 'POS')]
+target_str: aspect: orrechiete with sausage and chicken, opinion: favorite, sentiment: positive [SSEP] aspect: waiters, opinion: kind, sentiment: positive
+
+
+Sample 5 - Index: 4
+all_inputs: ['The', 'Bagels', 'have', 'an', 'outstanding', 'taste', 'with', 'a', 'terrific', 'texture', ',', 'both', 'chewy', 'yet', 'not', 'gummy', '.']
+all_targets: [([1], [4], 'POS'), ([1], [8], 'POS'), ([1], [12], 'POS'), ([1], [15], 'POS')]
+target_str: aspect: Bagels, opinion: outstanding, sentiment: positive [SSEP] aspect: Bagels, opinion: terrific, sentiment: positive [SSEP] aspect: Bagels, opinion: chewy, sentiment: positive [SSEP] aspect: Bagels, opinion: gummy, sentiment: positive

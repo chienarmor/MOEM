@@ -1,0 +1,3 @@
+aste	rest14	the food was so-so .####[([1], [3], 'neu')]
+aste	rest14	best taiwanese food in ny !####[([1, 2], [0], 'pos')]
+aste	rest14	they treated us well and the food was extremely fresh and well-prepared .####[([6], [9], 'pos'), ([6], [11], 'pos')]

@@ -1,0 +1,3 @@
+aste	rest16	what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in-house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .####[([7], [4], 'pos'), ([24, 25], [20], 'pos'), ([27], [20], 'pos'), ([36], [34, 35], 'pos')]
+aste	rest16	this place is incredibly tiny .####[([1], [4], 'neg')]
+aste	rest16	wine list selection is good and wine-by-the-glass was generously filled to the top .####[([0, 1, 2], [4], 'pos'), ([6], [8, 9], 'pos')]

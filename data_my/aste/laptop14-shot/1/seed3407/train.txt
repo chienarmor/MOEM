@@ -1,0 +1,3 @@
+aste	laptop14	the mac version of microsoft office is cheaper than buying the actual and works just as well .####[([1, 2, 3, 4, 5], [7], 'pos'), ([1, 2, 3, 4, 5], [15, 16], 'pos')]
+aste	laptop14	the battery never held a charge longer than one hour and within two months , stopped holding a charge for more than ten minutes .####[([1], [2], 'neg'), ([5], [6], 'neg'), ([18], [15], 'neg')]
+aste	laptop14	charger seems large for this class of computer .####[([0], [2], 'neg')]

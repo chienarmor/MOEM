@@ -1,0 +1,3 @@
+aste	rest16	if you want good authentic thai this place is not the place to go .####[([5], [3, 4], 'neg')]
+aste	rest16	the food is great and they have a good selection of wines at reasonable prices .####[([1], [3], 'pos')]
+aste	rest16	not enough wines by the glass either .####[([2, 3, 4, 5], [0, 1], 'neg')]

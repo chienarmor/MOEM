@@ -1,0 +1,3 @@
+aste	rest14	they did give a 15 % discount at the end , was n't enough , as they knew the service was horrible .####[([6], [11, 12, 13], 'neg'), ([19], [21], 'neg')]
+aste	rest14	plus , on wednesday nights the house wine is unlimited !####[([6, 7], [9], 'pos')]
+aste	rest14	and they have these home made potato chips at the bar that are the most delicious things in the world !####[([6, 7], [15], 'pos'), ([10], [15], 'neu')]

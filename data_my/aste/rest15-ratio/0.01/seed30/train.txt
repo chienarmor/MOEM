@@ -1,0 +1,6 @@
+aste	rest15	the service varys from day to day- sometimes they 're very nice , and sometimes not .####[([1], [2], 'neg')]
+aste	rest15	i highly recommend to anyone to give this place a try .####[([8], [2], 'pos')]
+aste	rest15	the pizza was pretty good and huge .####[([1], [4], 'pos'), ([1], [6], 'pos')]
+aste	rest15	fine dining restaurant quality .####[([1], [0], 'pos')]
+aste	rest15	the food here is rather good , but only if you like to wait for it .####[([1], [5], 'pos')]
+aste	rest15	also , specify if you like your food spicy- its rather bland if you do n't .####[([7], [11], 'neg')]

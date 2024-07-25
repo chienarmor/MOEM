@@ -1,0 +1,3 @@
+aste	rest16	the place is beautiful !####[([1], [3], 'pos')]
+aste	rest16	always good drinks and service is pretty good ;####[([2], [1], 'pos'), ([4], [7], 'pos')]
+aste	rest16	when we sat , we got great and fast service .####[([9], [6], 'pos'), ([9], [8], 'pos')]

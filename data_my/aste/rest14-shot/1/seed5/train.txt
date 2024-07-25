@@ -1,0 +1,3 @@
+aste	rest14	saturday , nov. 6th i had a group from work come in with about 35 people and the staff was amazing to accomodate us .####[([18], [20], 'pos')]
+aste	rest14	bagels are ok , but be sure not to make any special requests !####[([0], [2], 'neu')]
+aste	rest14	the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) .####[([1, 2, 3], [5], 'pos'), ([17], [11, 12, 13], 'pos'), ([19], [11, 12, 13], 'pos')]
