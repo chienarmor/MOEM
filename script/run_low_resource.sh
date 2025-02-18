@@ -26,7 +26,7 @@ do
       export data_format=AO
       export use_marker=False
       export constraint_decoding=True
-      export model_name_or_path=/root/siton-glusterfs-47484fc9354445ff8bd9128e5340e8ff/pretrained-models/t5-base
+      export model_name_or_path=
       export save_strategy=epoch
       export evaluation_strategy=epoch
       export marker_type=AO
