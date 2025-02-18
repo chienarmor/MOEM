@@ -125,74 +125,77 @@ def process(data_folder, tasks, out_dir, data_name=None):
                                 train_data.append((task, data_name, words, tuples))
                             else:
                                 dev_data.append((task, data_name, words, tuples))
-    print(train_data[0])
-    print(dev_data[0])
-    print(test_data[0])
-    # remove inputs in test set
-    test_inputs = set()
-    for _, _, words, _ in test_data:
-        test_inputs.add(words.replace(" ", ""))
-    print(list(test_inputs)[0])
-    train_data_safe = []
-    for item in train_data:
-        if item[2].replace(" ", "") not in test_inputs:
-            train_data_safe.append(item)
-    print(train_data_safe[0])
-    print("test inputs size:", len(test_inputs))
-    print("train data size (before remove test):", len(train_data))
-    print("train data size (after remove test):", len(train_data_safe))
-
-    # dedup
-    random.seed(0)
-    random.shuffle(train_data_safe)
-    train_data_dedup = []
-    train_pairs = set()
-    for item in train_data_safe:
-        pair = (item[2] + item[3]).replace(" ", "")
-        if pair not in train_pairs:
-            train_pairs.add(pair)
-            train_data_dedup.append(item)
-
-    print("train data size (dedup):", len(train_data_dedup))
-    print(train_data_dedup[0])
-    # stats
-    task_list = []
-    data_list = []
-    for task, data_name, _, _ in train_data_dedup:
-        task_list.append(task)
-        data_list.append(data_name)
-    print("Tasks counts:", Counter(task_list))
-    print("Data counts:", Counter(data_list))
+    # print(train_data[0])
+    # print(dev_data[0])
+    # print(test_data[0])
+    # # remove inputs in test set
+    # test_inputs = set()
+    # for _, _, words, _ in test_data:
+    #     test_inputs.add(words.replace(" ", ""))
+    # print(list(test_inputs)[0])
+    # train_data_safe = []
+    # for item in train_data:
+    #     if item[2].replace(" ", "") not in test_inputs:
+    #         train_data_safe.append(item)
+    # print(train_data_safe[0])
+    # print("test inputs size:", len(test_inputs))
+    # print("train data size (before remove test):", len(train_data))
+    # print("train data size (after remove test):", len(train_data_safe))
+    #
+    # # dedup
+    # random.seed(0)
+    # random.shuffle(train_data_safe)
+    # train_data_dedup = []
+    # train_pairs = set()
+    # for item in train_data_safe:
+    #     pair = (item[2] + item[3]).replace(" ", "")
+    #     if pair not in train_pairs:
+    #         train_pairs.add(pair)
+    #         train_data_dedup.append(item)
+    #
+    # print("train data size (dedup):", len(train_data_dedup))
+    # print(train_data_dedup[0])
+    # # stats
+    # task_list = []
+    # data_list = []
+    # for task, data_name, _, _ in train_data_dedup:
+    #     task_list.append(task)
+    #     data_list.append(data_name)
+    # print("Tasks counts:", Counter(task_list))
+    # print("Data counts:", Counter(data_list))
 
     # output
-    for seed in [5, 10, 15, 20, 25, 3407]:
+    for seed in [5, 10, 15, 20, 25, 30, 35, 40, 45, 3407]:
         os.makedirs(out_dir + "/seed{}".format(seed), exist_ok=True)
         random.seed(seed)
-        random.shuffle(train_data_dedup)
-        idx = int(len(train_data_dedup) * 0.9)
-        train_set = train_data_dedup[:idx]
-        dev_set = train_data_dedup[idx:]
+        random.shuffle(train_data)
+        # idx = int(len(train_data_dedup) * 0.9)
+        # train_set = train_data_dedup[:idx]
+        # dev_set = train_data_dedup[idx:]
 
         # sort
-        train_set = sorted(train_set, key=lambda x: x[2])
-        test_set = sorted(test_data, key=lambda x: x[2])
+        # train_data = sorted(train_data, key=lambda x: x[2])
+        dev_data = sorted(dev_data, key=lambda x: x[2])
+        test_data = sorted(test_data, key=lambda x: x[2])
 
         with open(out_dir + "/seed{}/train.txt".format(seed),
                   'w',
                   encoding="utf-8") as fp:
-            for item in train_set:
+            train_len_split = len(train_data)//10
+            # train_len_split = 30
+            for item in train_data[:train_len_split]:
                 fp.write("{}\t{}\t{}####{}\n".format(*item))
 
         with open(out_dir + "/seed{}/dev.txt".format(seed),
                   'w',
                   encoding="utf-8") as fp:
-            for item in dev_set:
+            for item in dev_data:
                 fp.write("{}\t{}\t{}####{}\n".format(*item))
 
         with open(out_dir + "/seed{}/test.txt".format(seed),
                   'w',
                   encoding="utf-8") as fp:
-            for item in test_set:
+            for item in test_data:
                 fp.write("{}\t{}\t{}####{}\n".format(*item))
 
 
@@ -200,6 +203,8 @@ if __name__ == "__main__":
     tasks = ["aste"]
     # tasks = ["aste", "acos", "asqp"]
     # process("data", tasks, "data/unified/")
-    # data_name = "rest16"
-    process("data", tasks, "data_my/aste/unified")
-    # process("data", tasks, f"data_my/aste/{data_name}", data_name)
+    data_names = ['laptop14', 'rest14', 'rest15','rest16']
+    # data_name = "rest15"
+    # process("data", tasks, "data/aste/unified")
+    for data_name in data_names:
+        process("data", tasks, f"data/aste/{data_name}-ratio/0.1", data_name)

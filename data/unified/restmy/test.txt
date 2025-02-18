@@ -1,2 +1,0 @@
-aste	rest14	the bread is top notch as well .####[([1], [3, 4], 'pos')]
-aste	rest14	i have to say they have one of the fastest delivery times in the city .####[([10, 11], [9], 'pos')]

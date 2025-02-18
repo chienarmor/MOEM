@@ -1,2 +1,0 @@
-aste	rest14	the service is fine and they allow you to enjoy the view .####[([1], [3], 'pos'), ([11], [9], 'pos')]
-aste	rest14	my husband and i enjoy sangria .####[([5], [4], 'pos')]
